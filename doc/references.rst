@@ -299,7 +299,7 @@ DBFetch
     :undoc-members:
     :synopsis:
 
-Wikipathway
+WikiPathways
 ====================
 
 .. automodule:: bioservices.wikipathway
